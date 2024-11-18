@@ -1,0 +1,14 @@
+C:\Users\justi\source\repos\online-winkel\online-winkel\bin\Debug\net8.0\online winkel.exe
+C:\Users\justi\source\repos\online-winkel\online-winkel\bin\Debug\net8.0\online winkel.deps.json
+C:\Users\justi\source\repos\online-winkel\online-winkel\bin\Debug\net8.0\online winkel.runtimeconfig.json
+C:\Users\justi\source\repos\online-winkel\online-winkel\bin\Debug\net8.0\online winkel.dll
+C:\Users\justi\source\repos\online-winkel\online-winkel\bin\Debug\net8.0\online winkel.pdb
+C:\Users\justi\source\repos\online-winkel\online-winkel\obj\Debug\net8.0\online winkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\online-winkel\online-winkel\obj\Debug\net8.0\online winkel.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\online-winkel\online-winkel\obj\Debug\net8.0\online winkel.AssemblyInfo.cs
+C:\Users\justi\source\repos\online-winkel\online-winkel\obj\Debug\net8.0\online winkel.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\online-winkel\online-winkel\obj\Debug\net8.0\online winkel.dll
+C:\Users\justi\source\repos\online-winkel\online-winkel\obj\Debug\net8.0\refint\online winkel.dll
+C:\Users\justi\source\repos\online-winkel\online-winkel\obj\Debug\net8.0\online winkel.pdb
+C:\Users\justi\source\repos\online-winkel\online-winkel\obj\Debug\net8.0\online winkel.genruntimeconfig.cache
+C:\Users\justi\source\repos\online-winkel\online-winkel\obj\Debug\net8.0\ref\online winkel.dll
